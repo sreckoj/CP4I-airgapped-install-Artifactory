@@ -1,10 +1,6 @@
 
 # Air-gapped installation of IBM CP4I using the Artifactory registry
 
->**////////////////////////////////////////////////////**<br>
->**DRAFT - UNDER CONSTRUCTION**<br>
->**////////////////////////////////////////////////////**
-
 
 ## Command line tools
 
